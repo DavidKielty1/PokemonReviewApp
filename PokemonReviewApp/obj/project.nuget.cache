@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E/W4NguzpYMtusQeo0ZPAaWPMJvUdxYEREGVg45H7j3I1aj16UcRKZnJ4ljYkwfk8ETHPYu32uy5FfXPd6AAvA==",
+  "dgSpecHash": "qVxrlvZl4JyhPwkIm7zzzQxuldPeDdcCRLCQ0qPSjB9/sNbcEcoMyesioYPDOp1u0HN/3w6q1+x6KiGnfMzPdw==",
   "success": true,
   "projectFilePath": "C:\\prog\\net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.11\\microsoft.entityframeworkcore.design.7.0.11.nupkg.sha512",
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.11\\microsoft.entityframeworkcore.relational.7.0.11.nupkg.sha512",
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.11\\microsoft.entityframeworkcore.sqlserver.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.11\\microsoft.entityframeworkcore.tools.7.0.11.nupkg.sha512",
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
